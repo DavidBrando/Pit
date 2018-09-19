@@ -1,0 +1,17 @@
+WASD - Move
+Mouse - Camera
+Left Click - attact/Launch Obj / Shoot
+Right Click - Aim
+Left Shift - Run
+Middle button - Drop Obj 
+Space - Jump
+
+
+---- Gamepad ----
+Left joystick - move
+Right joystick - camera
+RB - attact/Launch Obj / Shoot
+LB - Aim
+Left joystick button - run
+B (right button) - Drop Object 
+A (botton button) - jumpS
